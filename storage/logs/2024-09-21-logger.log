@@ -1,0 +1,45 @@
+[2024-09-21T02:48:35.858Z] error: SequelizeAccessDeniedError: Access denied for user ''@'localhost' (using password: YES)
+    at ConnectionManager.connect (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:94:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async file:///C:/Users/SIMPLEX644/Desktop/formValidation/database/db.js:8:3
+[2024-09-21T02:53:12.515Z] error: SequelizeAccessDeniedError: Access denied for user ''@'localhost' (using password: YES)
+    at ConnectionManager.connect (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:94:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async file:///C:/Users/SIMPLEX644/Desktop/formValidation/database/db.js:8:3
+[2024-09-21T02:58:49.861Z] error: SequelizeAccessDeniedError: Access denied for user ''@'localhost' (using password: YES)
+    at ConnectionManager.connect (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:94:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async file:///C:/Users/SIMPLEX644/Desktop/formValidation/database/db.js:8:3
+[2024-09-21T02:59:21.398Z] error: SequelizeAccessDeniedError: Access denied for user ''@'localhost' (using password: YES)
+    at ConnectionManager.connect (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:94:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async file:///C:/Users/SIMPLEX644/Desktop/formValidation/database/db.js:8:3
+[2024-09-21T03:05:48.939Z] error: SequelizeAccessDeniedError: Access denied for user ''@'localhost' (using password: YES)
+    at ConnectionManager.connect (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:94:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\SIMPLEX644\Desktop\formValidation\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async file:///C:/Users/SIMPLEX644/Desktop/formValidation/database/db.js:8:3
